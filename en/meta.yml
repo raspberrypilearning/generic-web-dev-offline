@@ -1,11 +1,11 @@
 title: generic-web-dev-offline
 hero_image: images/banner.png
-description: generic-web-dev-offline description
-version: 4
+description: Working offline with HTML, CSS and Javascript
+version: 4.0.0
 listed: false
 copyedit: false
+ingredient: true
+technologies: "html, css, javascript"
 last_tested: "2019-01-31"
 steps:
-  - title: Introduction
-  - title: Step title
-  - title: What next?
+  - title: Working offline with HTML, CSS and Javascript
